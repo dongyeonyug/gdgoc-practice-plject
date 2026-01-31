@@ -1,0 +1,15 @@
+
+config/serviceAccountKey.json
+.env
+controllers/ChatLogController.js
+
+
+# Git 관련 파일
+.git
+.gitignore
+
+# 구글 클라우드 설정 파일
+.gcloudignore
+
+# 라이브러리 (서버에서 자동 설치됨)
+node_modules/

@@ -1,0 +1,4 @@
+# Firebase 보안키 제외
+config/serviceAccountKey.json
+.env
+node_modules/
